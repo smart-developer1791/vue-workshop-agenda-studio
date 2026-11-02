@@ -1,0 +1,13 @@
+@import './base.css';
+@theme {
+  --color-background: #faf3eb;
+  --color-surface: #fff;
+  --color-ink: #292632;
+  --color-muted: #6a6572;
+  --color-accent: #a25a34;
+  --color-on-accent: #fff;
+  --color-soft: #a25a340d;
+  --color-line: #a25a3424;
+  --color-danger: #a13240;
+  --color-success: #276349;
+}

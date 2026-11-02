@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "name": "The community ideas morning",
+  "start": 570,
+  "budget": 120,
+  "segments": [
+    {
+      "id": "welcome",
+      "title": "A warm welcome",
+      "minutes": 10,
+      "kind": "activity",
+      "note": "Names, a shared intention, and one small hope."
+    },
+    {
+      "id": "discover",
+      "title": "Map the possibilities",
+      "minutes": 25,
+      "kind": "activity",
+      "note": "Work in pairs. Capture ideas before choosing a direction."
+    },
+    {
+      "id": "pause",
+      "title": "Tea & a little pause",
+      "minutes": 10,
+      "kind": "break",
+      "note": "Step away from the table and stretch."
+    },
+    {
+      "id": "make",
+      "title": "Make something small",
+      "minutes": 35,
+      "kind": "activity",
+      "note": "Turn one idea into a sketch that someone else can try."
+    },
+    {
+      "id": "share",
+      "title": "Share and reflect",
+      "minutes": 20,
+      "kind": "activity",
+      "note": "One observation, one question, and a next step."
+    }
+  ],
+  "provenance": {
+    "project": "vue-workshop-agenda-studio",
+    "author": "CodeSculptor",
+    "marker": "WA-1AF7F35E"
+  }
+}
